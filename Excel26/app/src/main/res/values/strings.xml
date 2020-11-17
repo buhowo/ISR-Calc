@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora de ISR</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="TiSalario">Ingresa tu salario</string>
+    <string name="txtISR">Aqui se mostrará el ISR a pagar</string>
+    <string name="anual">Anual</string>
+    <string name="mensual">Mensual</string>
+</resources>
